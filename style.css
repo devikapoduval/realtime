@@ -1,0 +1,44 @@
+.heading{
+background-color: rgb(0, 68, 255);
+margin: 0px;
+width: 100%;
+box-shadow:5px 5px 10px deeppink;
+font-size: 25px;
+}
+
+.heading_div{
+    float: none;
+    background-color: lime
+    ;
+    padding: 10px;
+    color:black;
+    border-radius: 25px;
+    box-shadow: 5px 5px 10px rgb(0, 0, 0);
+}
+
+
+.heading_div2{
+  font-size: 19px;  
+}
+
+
+.result_para_tag{
+  box-shadow: 5px 5px 10px #FFD700;
+  font-size:20px ;
+}
+
+.copy_right_footer_div{
+  bottom: 0;
+  text-align:left ;
+  background-color: indianred;
+  line-height: 3;
+position: fixed;
+width: 100%;
+}
+
+canvas{
+  border: 5px solid white;
+  border-radius: 20px;
+  box-shadow: 5px 5px 10px #FFD700;
+  margin-top:150px ;
+}
